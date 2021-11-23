@@ -1,9 +1,9 @@
 🍣 Olá :D Meu nome é Thiago Kraus e eu amo sushi
 
-<div align="middle">
+<div align="center">
   <a href="https://github.com/krausync">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=krausync&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krausync&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krausync&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krausync&layout=compact&langs_count=7&theme=white"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kraus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
